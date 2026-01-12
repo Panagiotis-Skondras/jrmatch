@@ -3,3 +3,5 @@
 ##### Journal - Electronics - Special issue: Advances in Text Mining and Analytics, MDPI, 2025.
 
 Description: Job post to resumes match (and vice-versa) - ranked
+
+https://www.mdpi.com/2079-9292/14/24/4960
